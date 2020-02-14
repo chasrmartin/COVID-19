@@ -1,2 +1,3 @@
 .DS_Store
 SourceDocs/*
+node_modules/*
